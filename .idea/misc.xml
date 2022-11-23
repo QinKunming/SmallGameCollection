@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/Gobang/pom.xml" />
         <option value="$PROJECT_DIR$/Tetris/pom.xml" />
+        <option value="$PROJECT_DIR$/Snake/pom.xml" />
       </list>
     </option>
   </component>

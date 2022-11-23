@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Tetris" />
+        <module name="Snake" />
         <module name="Gobang" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Gobang" target="8" />
+      <module name="Snake" target="8" />
       <module name="Tetris" target="8" />
     </bytecodeTargetLevel>
   </component>
