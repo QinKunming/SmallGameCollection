@@ -4,22 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9184220d-5cbf-4186-8ef1-7e6135244045" name="Default Changelist" comment="20220325">
-      <change afterPath="$PROJECT_DIR$/Snake/Snake.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snake/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snake/src/main/java/Direction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snake/src/main/java/Egg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snake/src/main/java/Snake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Snake/src/main/java/SnakeFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="9184220d-5cbf-4186-8ef1-7e6135244045" name="Default Changelist" comment="20221123">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tetris/target/classes/Tetris$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Tetris/target/classes/Tetris$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tetris/target/classes/Tetris$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Tetris/target/classes/Tetris$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tetris/target/classes/Tetris$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/Tetris/target/classes/Tetris$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tetris/target/classes/Tetris.class" beforeDir="false" afterPath="$PROJECT_DIR$/Tetris/target/classes/Tetris.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +63,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="com.gitee.ui.GiteeSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -83,7 +71,7 @@
       <recent name="D:\Program\gitProject\SmallGameCollection\Gobang" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SnakeFrame">
+  <component name="RunManager" selected="Application.Tetris">
     <configuration name="Eluos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Eluos" />
       <module name="Tetris" />
@@ -118,11 +106,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tetris" />
         <item itemvalue="Application.SnakeFrame" />
         <item itemvalue="Application.StartChessJFrame" />
-        <item itemvalue="Application.Tetris" />
         <item itemvalue="Application.Eluos" />
       </list>
     </recent_temporary>
@@ -145,7 +144,7 @@
       <workItem from="1658828169873" duration="1847000" />
       <workItem from="1669165815267" duration="1840000" />
       <workItem from="1669167754885" duration="22000" />
-      <workItem from="1669167821587" duration="590000" />
+      <workItem from="1669167821587" duration="2212000" />
     </task>
     <task id="LOCAL-00001" summary="20220325">
       <created>1648195297225</created>
@@ -161,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648195546180</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="20221123">
+      <created>1669169425227</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669169425227</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +187,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20220325" />
-    <option name="LAST_COMMIT_MESSAGE" value="20220325" />
+    <MESSAGE value="20221123" />
+    <option name="LAST_COMMIT_MESSAGE" value="20221123" />
   </component>
 </project>
